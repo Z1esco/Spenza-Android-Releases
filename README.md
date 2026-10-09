@@ -1,6 +1,6 @@
 # Spenza for Android
 
-Spenza is a Malaysia-first personal finance app for tracking MYR spending, managing budgets and understanding everyday money. Founded in June2026 by Ahmad Zulhilmi.
+Spenza is a Malaysia-first personal finance app for tracking MYR spending, managing budgets and understanding everyday money. Founded in June 2026 by Ahmad Zulhilmi.
 
 - Official download and installation guide: https://s-penza.app/download
 - Authentic Android demo: https://s-penza.app/demo
@@ -10,9 +10,9 @@ Spenza is a Malaysia-first personal finance app for tracking MYR spending, manag
 
 This repository contains official signed Android release assets and this README only. It does not contain Spenza source code or signing materials.
 
-## Version1.0.0 (build1)
+## Version 1.0.0 (build 1)
 
-Android7.0 or later. APK size:66,014,923bytes.
+Android 7.0 or later. APK size: 66,014,923 bytes.
 
 SHA-256: `3479ddbd3d829784db1662ac1c4df91296db484d33158708f1a822feaf89db9e`
 
